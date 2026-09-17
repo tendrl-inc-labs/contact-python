@@ -53,9 +53,6 @@ setup(
         ],
     },
     include_package_data=True,
-    package_data={
-        "tendrl": ["config.json"],
-    },
     keywords="telemetry IoT monitoring data-collection agent sdk unix-socket batching offline-storage",
     zip_safe=False,
 )
