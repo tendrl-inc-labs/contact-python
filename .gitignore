@@ -33,7 +33,7 @@ htmlcov/
 # MyPy
 .mypy_cache/
 .dmypy.json
-dmypy.json .env
+dmypy.json
 
 #tools
 tools/
